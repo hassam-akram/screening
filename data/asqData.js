@@ -8,6 +8,7 @@ const asqData = [
         questions: [
           { questionNumber: 1, text: "Does your baby make sounds like 'da', 'ga', 'ka', and 'ba'?" },
           { questionNumber: 2, text: "If you ask your baby to, does he play at making sounds such as 'ooo', 'ahh'?" },
+           { questionNumber: 2, text: "If you ask your baby to, does he play at making sounds such as 'ooo', 'ahh'?" },
           // ... usually there are 6 questions per domain
         ]
       },
